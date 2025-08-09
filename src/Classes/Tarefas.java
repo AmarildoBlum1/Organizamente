@@ -79,10 +79,6 @@ public class Tarefas extends Usuario {
 		this.pentende = pentende;
 	}
 
-	public static void obterInfo() {
-		
-		System.out.println(getId_tarefa());
-	}
 
 	public void setPrazo(String next) {
 		
